@@ -1,4 +1,4 @@
-# NAMA (NIM)
+# Diana Tiara Putri (121140172)
 
 ## 1. Client Side Programming
 
